@@ -7,9 +7,9 @@ int main()
     cin>>t;
     while(t--)
     {
-        int n,max=-1000,sum=0,cur;
+        int n,max=-1000,sum=0,cur;      //initialize max to some more genral value 
         cin>>n;
-        int a[n];
+        int a[n];           
         int opt[n];
         for(int i=0;i<n;i++)
         {
