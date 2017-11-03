@@ -18,9 +18,9 @@ int main()
             cin>>a>>b;
             //cout<<arr[b-1];
             if(arr[b-1]==1)
-            cout<<"ODD";
+            cout<<"ODD";	//odd number
             else
-            cout<<"EVEN";
+            cout<<"EVEN";	//even number
             
             cout<<endl;
         }
